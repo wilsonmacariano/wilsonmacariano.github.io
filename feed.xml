@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='http://wilsonmacariano.github.io/' rel='self' type='application/rss+xml'/>
+<title>
+:wilson
+</title>
+<link>
+http://wilsonmacariano.github.io/
+</link>
+<description>
+Programming stuff...
+</description>
+<lastBuildDate>
+Sat, 19 Mar 2016 14:56:13 -0300
+</lastBuildDate>
+<generator>
+clj-rss
+</generator>
+<item>
+<guid>
+http://wilsonmacariano.github.io/posts-output/2014-11-04-second-post/
+</guid>
+<link>
+http://wilsonmacariano.github.io/posts-output/2014-11-04-second-post/
+</link>
+<title>
+Yet Another Post
+</title>
+<description>
+&lt;h3&gt;&lt;a name=&quot;this&amp;#95;post&amp;#95;so&amp;#95;fetch&quot;&gt;&lt;/a&gt;This Post So Fetch&lt;/h3&gt;&lt;p&gt;some more stuff happened&lt;/p&gt;
+</description>
+<enclosure>
+
+</enclosure>
+<pubDate>
+Tue, 04 Nov 2014 00:00:00 -0300
+</pubDate>
+</item>
+<item>
+<guid>
+http://wilsonmacariano.github.io/posts-output/2014-03-10-first-post/
+</guid>
+<link>
+http://wilsonmacariano.github.io/posts-output/2014-03-10-first-post/
+</link>
+<title>
+A Post
+</title>
+<description>
+&lt;h3&gt;&lt;a name=&quot;this&amp;#95;post&amp;#95;not&amp;#95;fetch&amp;#95;enough&quot;&gt;&lt;/a&gt;This Post Not Fetch Enough&lt;/h3&gt;&lt;p&gt;some stuff happened again&lt;/p&gt;
+</description>
+<enclosure>
+
+</enclosure>
+<pubDate>
+Mon, 10 Mar 2014 00:00:00 -0300
+</pubDate>
+</item>
+</channel>
+</rss>
